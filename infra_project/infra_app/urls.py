@@ -1,4 +1,4 @@
-from . import views
+from infra_project import views
 from django.urls import path
 
 
